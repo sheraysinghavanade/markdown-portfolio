@@ -12,8 +12,8 @@ I'll meet you over there, can't wait to get started!
 
 This repository is licensed under [MIT](../LICENSE) (c) 2019 GitHub, Inc.
 
-- [x] Additional markup is supported, including @mentions, #references, [links](url), **emphasis**, and <del>HTML tags</del>.
-- [x] List syntax is required.
-  - You can nest lists below, too!
+- [x] test
+- [x]test
+  - Ytest 
 - [x] This item is completed.
 - [ ] This item is not complete.
